@@ -15,7 +15,7 @@ get_header();
         <header class="text-center mb-5">
             <h1 class="fw-bold display-5"><?php esc_html_e( 'Featured Properties', 'property-theme' ); ?></h1>
             <p class="text-muted lead"><?php esc_html_e( 'Explore our handpicked selection of top-rated real estate listings.', 'property-theme' ); ?></p>
-        </header>
+        </header> 
 
         <!-- 3-Column Grid -->
         <div class="row g-4 mb-5">
