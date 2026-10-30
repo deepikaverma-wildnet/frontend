@@ -30,7 +30,7 @@ function property_theme_enqueue_assets() {
     // Bootstrap 5 CSS
     wp_enqueue_style( 'bootstrap-css', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css', array(), '5.3.2' );
     
-    // Font Awesome 6 (FIXED: Changed all.min.min.css to all.min.css)
+    // Font Awesome 6
     wp_enqueue_style( 'font-awesome', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css', array(), '6.5.1' );
     
     // Theme Main Stylesheet
